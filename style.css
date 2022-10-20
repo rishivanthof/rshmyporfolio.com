@@ -522,10 +522,10 @@ align-items: center;
 }
 
 .welcome{
-    font-size:13px;
+    font-size:10px;
     font-weight: lighter;
     word-spacing: 1px;
-    letter-spacing: 8px;
+    letter-spacing: 5px;
     display: inline-block;
     align-items: center;
     justify-content: center;
