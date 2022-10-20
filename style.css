@@ -525,11 +525,11 @@ align-items: center;
     font-size:10px;
     font-weight: lighter;
     word-spacing: 1px;
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     display: inline-block;
     align-items: center;
     justify-content: center;
-    margin-left:14px ;
+    margin-left:10px ;
 }
 
 
